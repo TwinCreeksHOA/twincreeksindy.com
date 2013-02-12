@@ -2,5 +2,5 @@ body		{ margin: 0px; }
 p, td  		{ font-family: Arial; font-size: 10pt; margin: 0 }
 
 .leftcolumn  	{padding-left: 2px; padding-right: 2px; color: #FFFFFF} 
-.banner			{padding-top: 4px; padding-left: 6px}
+.banner			{padding-top: 4px; padding-left: 6px; color: #FFFFFF; font-size: 1.1em;}
 .newsbox	 	{ border: solid 1px #000000; padding: 3px}
