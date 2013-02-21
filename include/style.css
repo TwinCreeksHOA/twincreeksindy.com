@@ -114,3 +114,26 @@ dl.faq dd
     padding-left: 0px;
     margin: 10px 0px;
 }
+
+.header.global
+{
+    color: white;
+    background-color: #336699;
+    font-family: Helvetica, sans-serif;
+    
+    padding: 10px;
+}
+.header.global .org
+{
+    margin-top: 20px;
+    font-size: 3em;
+}
+.header.global .adr
+{
+    font-size: 1.5em;
+}
+.header.global img
+{
+    float: left;
+    margin-right: 30px;
+}
