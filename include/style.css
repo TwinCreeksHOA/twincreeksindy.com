@@ -143,3 +143,9 @@ dl.faq dd
     float: left;
     margin-right: 30px;
 }
+
+ul
+{
+	list-style-type: disc;
+	list-style-image: url('../fp_themes/ice174/blt.gif');
+}
