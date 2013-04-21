@@ -149,3 +149,13 @@ ul
 	list-style-type: disc;
 	list-style-image: url('../fp_themes/ice174/blt.gif');
 }
+
+ol.winners
+{
+	list-style-image: url('../images/j0335108.gif');
+	list-style-position: inside;
+}
+ol.winners li small
+{
+	display: block;
+}
