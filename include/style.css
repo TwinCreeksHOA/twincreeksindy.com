@@ -153,9 +153,29 @@ ul
 ol.winners
 {
 	list-style-image: url('../images/j0335108.gif');
-	list-style-position: inside;
+}
+ol.winners li
+{
+	margin-left: 100px;
+	line-height: 85px;
+}
+ol.winners li div
+{
+	display: inline-block;
+	vertical-align: top;
 }
 ol.winners li small
 {
-	display: block;
+	font-size: inherit;
+}
+
+.alert
+{
+	border: 1px solid red;
+	padding: 10px;
+	font-size: 120%;
+}
+.alert *:first-child
+{
+	margin-top: 0px;
 }
