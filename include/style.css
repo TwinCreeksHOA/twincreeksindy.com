@@ -121,6 +121,12 @@ dl.faq dd
     margin: 10px 0px;
 }
 
+dl.events dt
+{
+	font-weight: bold;
+	margin-top: 1em;
+}
+
 .header.global
 {
     color: white;
